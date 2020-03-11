@@ -46,19 +46,30 @@ So that's the first thing to remember: this isn't a one-way power dynamic. It ma
 ## 面试种类
 
 Ok, so we are  _also_  evaluating the company based on the people we interact with in the interview process, so what do we do with that information?
+那么，在我们懂得面试官面试我们的时候我们也同时在评测这家公司的水平，在这个大前提下我们能做什么？
 
 Well, there are a few different types of technical interviews. These interview types tell us  **a lot**  about the mindset of the company and what it is like to work there. I break down the different types like this:
+有一些不同种类的技术面试题。这些面试题反应了这些公司技术氛围。我归总这些类型如下：
 
 -   Whiteboarding
+-   白板问题
 -   Code challenge (computer science questions or algorithms)
+-   代码问题 （计算机科学或算法类别）
 -   Code challenge (reasonable coding problem)
+-   代码问题 （常规代码类别）
 -   Take home project
+-   线下思考题
 
 ### The dreaded whiteboard
+### 灵探头疼的白板题
+
 
 Some of the first interview exercises the tech industry adopted were whiteboard exercises. You'd be given a task, and asked to write the code on the whiteboard. Generally, this approach is looked down upon and is being done away with in the tech industry today, but there are still many companies that employ this practice.
+一些公司采用白板问题作为第一轮的面试测试。你将被分发相应任务，而后在白板中作答。一般来说，目前这类题已经被抛弃和被淘汰了，但人有一定数量的公司乐此不疲。
+
 
 It's not that coding on a whiteboard is bad  _in and of itself_—but that a whiteboard is so far removed from the work we  _actually do_  as programmers  _who work on computers_  every day. The whiteboard is clumsy to write on, edit on, and it doesn't give you any feedback—there's no autocomplete, no syntax highlighting, and you can't pop over to Google to look up the standard library's references.
+与其是说在白板上编码它本身不好，不如说白板编码脱离了我们程序员的日常工作的实质。它有它的局限性，书写繁琐修正麻烦，缺少自动补全语法高亮，以及不能切换搜索引擎翻阅标准开发文档。
 
 On top of that, many places who employ whiteboard interviewing also ask a certain set of interview questions that, frankly, are worthless to 99% of programming jobs out there. These are the dreaded computer science algorithms: reversing a binary tree, finding the shortest path in a graph, etc.
 
